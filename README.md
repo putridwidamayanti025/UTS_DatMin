@@ -11,7 +11,7 @@
 
 ---
 
-## 📋 Petunjuk Ujian (Take Home Test)
+## 📋 Petunjuk Ujian
 
 1. Membuat model klasifikasi untuk memprediksi kualitas anggur
 2. Dataset: Wine Quality (fitur kimiawi anggur merah & putih)
